@@ -1,11 +1,10 @@
 [tool.poetry]
-name = "pyproject-template"
-version = "0.1.0"
-description = "Python project template using poetry."
+name = "scraping_shoplist"
+version = "1.0.0"
+description = "Get shop list from web page and output to CSV file."
 authors = ["Your Name <you@example.com>"]
 license = "MIT"
 readme = "README.md"
-packages = [{include = "pyproject_template"}]
 
 [tool.poetry.dependencies]
 python = "^3.11"
