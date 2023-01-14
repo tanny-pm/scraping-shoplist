@@ -9,6 +9,9 @@ packages = [{include = "pyproject_template"}]
 
 [tool.poetry.dependencies]
 python = "^3.11"
+beautifulsoup4 = "^4.11.1"
+requests = "^2.28.2"
+notebook = "^6.5.2"
 
 [tool.poetry.group.dev.dependencies]
 flake8 = "^6.0.0"
