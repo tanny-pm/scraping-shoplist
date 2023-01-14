@@ -3,5 +3,6 @@
   "python.formatting.provider": "black",
   "python.linting.flake8Enabled": true,
   "python.linting.mypyEnabled": true,
-  "python.linting.mypyCategorySeverity.error": "Information"
+  "python.linting.mypyCategorySeverity.error": "Information",
+  "isort.check": true
 }
